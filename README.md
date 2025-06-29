@@ -128,3 +128,9 @@ React.js and Express documentation
 MongoDB Atlas
 
 Open Source libraries used in the project
+
+---
+
+📧 Contact
+Jayanth Kotani 📩 Email: [jayanth7227@gmail.com] 🔗 GitHub:
+
