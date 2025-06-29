@@ -132,5 +132,5 @@ Open Source libraries used in the project
 ---
 
 📧 Contact
-Jayanth Kotani 📩 Email: [jayanth7227@gmail.com] 🔗 GitHub: @JayanthKotani
+Jayanth Kotani 📩 Email: [jayanth7227@gmail.com] 🔗 GitHub: https://github.com/JayanthKotani
 
